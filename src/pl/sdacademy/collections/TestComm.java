@@ -1,4 +1,4 @@
 package pl.sdacademy.collections;
 
-public class Test {
+public class TestComm {
 }
